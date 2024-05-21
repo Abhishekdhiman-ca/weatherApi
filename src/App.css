@@ -1,0 +1,26 @@
+/* Bootstrap Styles */
+@import url('https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css');
+.weather {
+  margin-top: 20px;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  background-color: #f4f4f4;
+}
+
+.weather h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.weather p {
+  margin-bottom: 10px;
+}
+
+.error {
+  color: red;
+}
+
+.loading {
+  color: gray;
+}
